@@ -1,0 +1,151 @@
+MEWIT PROJECT LICENSE
+
+Copyright (c) 2026 Francesco Foresi
+
+1. GRANT OF PERMISSION
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this project and its associated source code (the "Software"), to use,
+study, inspect, modify, and create derivative works from the Software,
+subject to the conditions set forth below.
+
+This permission includes, without limitation, the right to:
+
+- use the Software for personal, educational, research, or commercial
+  purposes;
+- study and inspect the source code;
+- modify the Software;
+- create derivative works based on the Software;
+- distribute modified or derivative versions of the Software, provided that
+  all applicable requirements of this license are respected.
+
+
+2. ATTRIBUTION REQUIREMENT
+
+Any modified version, derivative work, or other software substantially based
+on the Software must retain clear and visible attribution to the original
+project and its author.
+
+The attribution must include, at minimum:
+
+    Based on "mewit" by Francesco Foresi
+    Original project: https://github.com/utopic-future/mewit-py
+
+The attribution must be reasonably visible to users of the derivative work.
+It may be placed in the project's README, documentation, credits, about
+section, source distribution, or another appropriate location.
+
+The attribution may not be removed, hidden, obscured, or altered in a way
+that could reasonably create a false impression that the original project
+or substantial portions of it were created by another person.
+
+
+3. MODIFIED AND DERIVATIVE WORKS
+
+You are permitted to modify the Software and distribute modified versions,
+provided that:
+
+(a) the attribution requirements described in Section 2 are retained;
+
+(b) a link to the original project is provided;
+
+(c) the modified nature of the work is clearly indicated where reasonably
+    necessary;
+
+(d) existing copyright and license notices are preserved.
+
+A derivative work may have its own name, branding, documentation, license,
+and additional terms, provided that such terms do not remove or contradict
+the attribution requirements of this license for material derived from
+mewit.
+
+
+4. REDISTRIBUTION OF THE ORIGINAL SOFTWARE
+
+Redistribution of the original Software is permitted only if the original
+copyright notice and this license are retained.
+
+No person may redistribute the Software while intentionally removing,
+replacing, or obscuring its copyright or license information.
+
+A redistributed copy must continue to identify Francesco Foresi as the
+author of the original Software.
+
+
+5. INDEPENDENT WORKS AND INSPIRATION
+
+Studying the Software, learning from its implementation, or independently
+implementing similar ideas, concepts, algorithms, programming techniques,
+or functionality does not, by itself, constitute a derivative work and does
+not require attribution under this license.
+
+This license applies to works that are substantially based on, incorporate,
+copy, modify, or otherwise derive from the original source code or other
+copyrightable material of the Software.
+
+The mere fact that a project performs similar functions or was inspired by
+the general concepts demonstrated by mewit does not, by itself, make that
+project a derivative work.
+
+
+6. NO MISREPRESENTATION
+
+You may not represent a derivative version of the Software as the original
+mewit project.
+
+You may not remove or alter attribution in a manner intended, or reasonably
+likely, to create a false impression regarding the origin or authorship of
+the Software or substantial portions thereof.
+
+Nothing in this license prevents a derivative work from having its own
+author, provided that the required attribution to the original project is
+maintained.
+
+
+7. COPYRIGHT AND OWNERSHIP
+
+Copyright in the original Software remains with Francesco Foresi.
+
+This license grants the permissions expressly stated herein but does not
+transfer ownership or copyright in the original Software.
+
+All copyright and other intellectual property rights in original material
+created by the author remain with the author, except where otherwise
+required by applicable law or by the terms of third-party components.
+
+
+8. THIRD-PARTY SOFTWARE
+
+This license applies only to material for which Francesco Foresi holds the
+necessary rights to grant the permissions described herein.
+
+Third-party software, libraries, dependencies, or other materials included
+with or used by the Software remain subject to their respective licenses.
+
+In particular, this license does not grant any additional rights to
+third-party software or dependencies.
+
+
+9. RESERVATION OF RIGHTS
+
+All rights not expressly granted by this license are reserved by the
+copyright holder.
+
+
+10. DISCLAIMER OF WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES, OR
+OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE,
+ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OF OR
+OTHER DEALINGS IN THE SOFTWARE.
+
+
+11. ACCEPTANCE
+
+By using, modifying, or distributing the Software in a manner permitted by
+this license, you acknowledge and agree to comply with the terms of this
+license.
